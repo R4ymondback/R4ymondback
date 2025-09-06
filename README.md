@@ -41,8 +41,8 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 ---
 
 ## 🏆 Competitive Programming
-[![AtCoder](https://badgen.org/img/atcoder/R4ymondback/rating?label=AtCoder&color=purple)](https://atcoder.jp/users/R4ymondback)  
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=R4ymondback)](https://codeforces.com/profile/R4ymondback)
+[![AtCoder](https://badgen.org/img/atcoder/R4ymondback/rating?label=AtCoder&color=purple)](https://atcoder.jp/users/RE33)  
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=R4ymondback)](https://codeforces.com/profile/RE33)
 
 ---
 
