@@ -54,4 +54,3 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 ⭐ *“Solve problems, build logic, and keep improving every day.”*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
