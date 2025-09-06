@@ -20,7 +20,6 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -31,6 +30,15 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 </p>
 
 ---
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=R4ymondback&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Activity Graph
+![Raihan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R4ymondback&theme=tokyo-night)
+
+---
 
 ## 🏆 Competitive Programming
 [![AtCoder](https://badgen.org/img/atcoder/R4ymondback/rating?label=AtCoder&color=purple)](https://atcoder.jp/users/R4ymondback)  
@@ -39,8 +47,7 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 ---
 
 ## 🚀 Featured Projects
-- [🔢 Calculator in C++](#) – Basic calculator implementing OOP principles  
-- [🎮 Game Demo in C++](#) – Small game project to practice logic and SDL basics  
+- [🔢 Calculator in C++](#) – Basic calculator implementing OOP principles
 
 ---
 
@@ -51,6 +58,6 @@ I focus on writing clean, efficient code and mastering **algorithms** to become 
 
 ---
 
-⭐ *“Solve problems, build logic, and keep improving every day.”*
+⭐ *“Some feelings run like long loops, lasting for years… but not every loop is infinite. One day, you realize it’s time to break, move forward, and let the program of life run smoother.”*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
